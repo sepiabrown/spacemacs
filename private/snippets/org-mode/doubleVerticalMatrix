@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-# name: doubleVerticalMatrix
-# key: Vmat
-# condition: (when (org-inside-LaTeX-fragment-p) 'auto)
-# --
-\begin{Vmatrix} $1 \end{Vmatrix}$0
