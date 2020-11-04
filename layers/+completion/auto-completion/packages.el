@@ -26,7 +26,7 @@
         hippie-exp
         (ivy-yasnippet :requires ivy)
         smartparens
-        yasnippet
+        (yasnippet :location (recipe :fetcher github :repo "sepiabrown/yasnippet")); joaotavora/yasnippet Zetagon/yasnippet
         yasnippet-snippets
         ))
 
